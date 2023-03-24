@@ -1,0 +1,5 @@
+Crie uma página HTML que contenha o seguinte formulário web. A página deve ser salva em um arquivo chamado campos.html. O formulário deverá usar o método GET para submissão dos dados e os dados serão enviados para a página calcula.php.
+
+A imagem contém 3 campos de texto: valor1, valor2 e valor3, com um botão de submissão para a página em PHP.
+
+Na página em PHP,  obtenha os três valores fornecidos no formulário, faça a soma destes valores e apresente na tela um parágrafo com a mensagem A soma obtida foi de: VALOR, substituindo VALOR pelo resultado da soma.
